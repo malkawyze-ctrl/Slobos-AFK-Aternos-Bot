@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "thu-widow.gl.joinmc.link",
-    "port": 25565,
+    "port": 5009,
     "version": "",
     "try-creative": false
   },
